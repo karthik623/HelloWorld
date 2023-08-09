@@ -16,4 +16,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Run a one-Line Script
-      run: echo "Hello World, This message is printed from Python Application!!!"
+      run: echo "Hello World, This message is printed from Python Application!!"
